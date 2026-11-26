@@ -76,5 +76,7 @@ Los resultados dependen de los supuestos utilizados y constituyen una evaluació
 
 Daniela María Sánchez Sánchez  
 Ingeniería de Software y bases de datos
+
 Asignatura:Simulación  
+
 Noviembre de 2026
