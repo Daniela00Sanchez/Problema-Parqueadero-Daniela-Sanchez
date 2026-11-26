@@ -1,0 +1,201 @@
+﻿replica,escenario,tipo,cantidad,espera_media_min
+1,3 cajas · fila más corta,Rápido,477,0.15215271439974812
+1,3 cajas · fila más corta,Normal,341,0.25478184916994084
+1,3 cajas · fila más corta,Lento,512,0.15872595744642481
+1,3 cajas · fila más corta,Muy lento,520,0.1170083215285742
+1,3 cajas · elección aleatoria,Rápido,477,1.368927528655563
+1,3 cajas · elección aleatoria,Normal,341,1.8020196731207632
+1,3 cajas · elección aleatoria,Lento,512,1.3850185796867105
+1,3 cajas · elección aleatoria,Muy lento,520,1.5535994424653452
+1,4 cajas · fila más corta,Rápido,477,0.0
+1,4 cajas · fila más corta,Normal,341,0.13066625807990281
+1,4 cajas · fila más corta,Lento,512,0.019791629177063896
+1,4 cajas · fila más corta,Muy lento,520,0.02717445830492212
+1,3 cajas · demanda triple,Rápido,477,3.365220747584404
+1,3 cajas · demanda triple,Normal,341,4.105551334590286
+1,3 cajas · demanda triple,Lento,512,4.351754122760752
+1,3 cajas · demanda triple,Muy lento,520,4.0572882805558494
+1,4 cajas · demanda triple,Rápido,477,0.6862560195207268
+1,4 cajas · demanda triple,Normal,341,1.0445455670071455
+1,4 cajas · demanda triple,Lento,512,0.9127590066163412
+1,4 cajas · demanda triple,Muy lento,520,0.9727182377619538
+2,3 cajas · fila más corta,Rápido,477,0.23465803831422422
+2,3 cajas · fila más corta,Normal,397,0.11492506269755562
+2,3 cajas · fila más corta,Lento,482,0.16727298653696268
+2,3 cajas · fila más corta,Muy lento,494,0.3552000500603139
+2,3 cajas · elección aleatoria,Rápido,477,1.8140410686860746
+2,3 cajas · elección aleatoria,Normal,397,1.3597203717503992
+2,3 cajas · elección aleatoria,Lento,482,1.6067519616629689
+2,3 cajas · elección aleatoria,Muy lento,494,1.8459801582230069
+2,4 cajas · fila más corta,Rápido,477,0.06368021315041766
+2,4 cajas · fila más corta,Normal,397,0.022508602892551858
+2,4 cajas · fila más corta,Lento,482,0.031756541326130504
+2,4 cajas · fila más corta,Muy lento,494,0.11725994964460534
+2,3 cajas · demanda triple,Rápido,477,5.8276682543991924
+2,3 cajas · demanda triple,Normal,397,5.825387353446873
+2,3 cajas · demanda triple,Lento,482,5.482049519037887
+2,3 cajas · demanda triple,Muy lento,494,6.0602990887908605
+2,4 cajas · demanda triple,Rápido,477,1.347599574871516
+2,4 cajas · demanda triple,Normal,397,1.1090015991738364
+2,4 cajas · demanda triple,Lento,482,1.4063359697455426
+2,4 cajas · demanda triple,Muy lento,494,1.4621887571577084
+3,3 cajas · fila más corta,Rápido,444,0.15088340340535755
+3,3 cajas · fila más corta,Normal,363,0.14040142364941
+3,3 cajas · fila más corta,Lento,532,0.12066162275311597
+3,3 cajas · fila más corta,Muy lento,511,0.1299050393159973
+3,3 cajas · elección aleatoria,Rápido,444,1.3704945783708289
+3,3 cajas · elección aleatoria,Normal,363,1.4657229225356423
+3,3 cajas · elección aleatoria,Lento,532,1.1679339733856995
+3,3 cajas · elección aleatoria,Muy lento,511,1.331616804561804
+3,4 cajas · fila más corta,Rápido,444,0.007221419159912039
+3,4 cajas · fila más corta,Normal,363,0.005435339607699584
+3,4 cajas · fila más corta,Lento,532,0.07122080075394503
+3,4 cajas · fila más corta,Muy lento,511,0.021643173463773008
+3,3 cajas · demanda triple,Rápido,444,4.2296475356897885
+3,3 cajas · demanda triple,Normal,363,3.7344320426955564
+3,3 cajas · demanda triple,Lento,532,3.9223217642161132
+3,3 cajas · demanda triple,Muy lento,511,4.429007800601539
+3,4 cajas · demanda triple,Rápido,444,1.0037222330946127
+3,4 cajas · demanda triple,Normal,363,0.7503486297477465
+3,4 cajas · demanda triple,Lento,532,0.8965347937560278
+3,4 cajas · demanda triple,Muy lento,511,1.006015526607289
+4,3 cajas · fila más corta,Rápido,479,0.16601987245177957
+4,3 cajas · fila más corta,Normal,333,0.15383293020003
+4,3 cajas · fila más corta,Lento,524,0.0788267558745705
+4,3 cajas · fila más corta,Muy lento,514,0.10878626784701233
+4,3 cajas · elección aleatoria,Rápido,479,1.3766065927237936
+4,3 cajas · elección aleatoria,Normal,333,1.1557943106150688
+4,3 cajas · elección aleatoria,Lento,524,1.230874963439783
+4,3 cajas · elección aleatoria,Muy lento,514,1.3983057000904284
+4,4 cajas · fila más corta,Rápido,479,0.03176671926439667
+4,4 cajas · fila más corta,Normal,333,0.013255434707154328
+4,4 cajas · fila más corta,Lento,524,0.042742144079400406
+4,4 cajas · fila más corta,Muy lento,514,0.0055924607464955655
+4,3 cajas · demanda triple,Rápido,479,4.598002935689924
+4,3 cajas · demanda triple,Normal,333,3.9413855326290093
+4,3 cajas · demanda triple,Lento,524,4.131886146780086
+4,3 cajas · demanda triple,Muy lento,514,3.8388088559289906
+4,4 cajas · demanda triple,Rápido,479,1.3127669232846972
+4,4 cajas · demanda triple,Normal,333,1.016955474886549
+4,4 cajas · demanda triple,Lento,524,0.9778104118539281
+4,4 cajas · demanda triple,Muy lento,514,0.7952225904628146
+5,3 cajas · fila más corta,Rápido,468,0.344889097598322
+5,3 cajas · fila más corta,Normal,378,0.19074172166335396
+5,3 cajas · fila más corta,Lento,518,0.2277866099858662
+5,3 cajas · fila más corta,Muy lento,486,0.19556156884150677
+5,3 cajas · elección aleatoria,Rápido,468,1.534656994333751
+5,3 cajas · elección aleatoria,Normal,378,1.2984470857968373
+5,3 cajas · elección aleatoria,Lento,518,1.7372550130283733
+5,3 cajas · elección aleatoria,Muy lento,486,1.8428551158756223
+5,4 cajas · fila más corta,Rápido,468,0.06211910918748772
+5,4 cajas · fila más corta,Normal,378,0.014783836846623027
+5,4 cajas · fila más corta,Lento,518,0.10692217409151668
+5,4 cajas · fila más corta,Muy lento,486,0.01013672247212331
+5,3 cajas · demanda triple,Rápido,468,3.779589497717034
+5,3 cajas · demanda triple,Normal,378,3.3933041921807745
+5,3 cajas · demanda triple,Lento,518,3.717336767320284
+5,3 cajas · demanda triple,Muy lento,486,3.9727415358124585
+5,4 cajas · demanda triple,Rápido,468,1.083892050362373
+5,4 cajas · demanda triple,Normal,378,1.0981541827370698
+5,4 cajas · demanda triple,Lento,518,1.0503471423327522
+5,4 cajas · demanda triple,Muy lento,486,1.0242082899236529
+6,3 cajas · fila más corta,Rápido,467,0.25861120454965786
+6,3 cajas · fila más corta,Normal,382,0.19544047563343464
+6,3 cajas · fila más corta,Lento,507,0.18797218301010732
+6,3 cajas · fila más corta,Muy lento,494,0.22843785776778167
+6,3 cajas · elección aleatoria,Rápido,467,1.3013556115911402
+6,3 cajas · elección aleatoria,Normal,382,1.4133002837683695
+6,3 cajas · elección aleatoria,Lento,507,1.33577854035383
+6,3 cajas · elección aleatoria,Muy lento,494,1.3228267681533175
+6,4 cajas · fila más corta,Rápido,467,0.04770246554287092
+6,4 cajas · fila más corta,Normal,382,0.040751155658968446
+6,4 cajas · fila más corta,Lento,507,0.05051569606825396
+6,4 cajas · fila más corta,Muy lento,494,0.026991171873224567
+6,3 cajas · demanda triple,Rápido,467,3.5614576477775097
+6,3 cajas · demanda triple,Normal,382,3.955510615623949
+6,3 cajas · demanda triple,Lento,507,3.6994749699762144
+6,3 cajas · demanda triple,Muy lento,494,4.592831760879535
+6,4 cajas · demanda triple,Rápido,467,0.9586236140412512
+6,4 cajas · demanda triple,Normal,382,1.0497310433354956
+6,4 cajas · demanda triple,Lento,507,0.9764145806506389
+6,4 cajas · demanda triple,Muy lento,494,1.2839035143732642
+7,3 cajas · fila más corta,Rápido,466,0.11795876107566201
+7,3 cajas · fila más corta,Normal,353,0.18812248611682794
+7,3 cajas · fila más corta,Lento,566,0.11939580190084048
+7,3 cajas · fila más corta,Muy lento,465,0.1925177101674919
+7,3 cajas · elección aleatoria,Rápido,466,1.5075541618544197
+7,3 cajas · elección aleatoria,Normal,353,1.6406764733709522
+7,3 cajas · elección aleatoria,Lento,566,1.3901417824356996
+7,3 cajas · elección aleatoria,Muy lento,465,1.526855027966844
+7,4 cajas · fila más corta,Rápido,466,0.010836337979936292
+7,4 cajas · fila más corta,Normal,353,0.010554379100246527
+7,4 cajas · fila más corta,Lento,566,0.008361370108394132
+7,4 cajas · fila más corta,Muy lento,465,0.022733307437132075
+7,3 cajas · demanda triple,Rápido,466,4.03547837778767
+7,3 cajas · demanda triple,Normal,353,4.574726427663736
+7,3 cajas · demanda triple,Lento,566,4.066188493590756
+7,3 cajas · demanda triple,Muy lento,465,4.466573200330097
+7,4 cajas · demanda triple,Rápido,466,0.9306115145215089
+7,4 cajas · demanda triple,Normal,353,1.2125692433385962
+7,4 cajas · demanda triple,Lento,566,1.0830256698176062
+7,4 cajas · demanda triple,Muy lento,465,1.0835862647959733
+8,3 cajas · fila más corta,Rápido,458,0.11698982045919618
+8,3 cajas · fila más corta,Normal,384,0.14727856881377063
+8,3 cajas · fila más corta,Lento,522,0.17274429836234997
+8,3 cajas · fila más corta,Muy lento,486,0.11692777748562534
+8,3 cajas · elección aleatoria,Rápido,458,1.3995361180799677
+8,3 cajas · elección aleatoria,Normal,384,1.5899735969064166
+8,3 cajas · elección aleatoria,Lento,522,1.4879970784684318
+8,3 cajas · elección aleatoria,Muy lento,486,1.7556870487071128
+8,4 cajas · fila más corta,Rápido,458,0.03229258780995043
+8,4 cajas · fila más corta,Normal,384,0.02334226359754214
+8,4 cajas · fila más corta,Lento,522,0.04909452424061686
+8,4 cajas · fila más corta,Muy lento,486,0.017060594055897875
+8,3 cajas · demanda triple,Rápido,458,3.7837433129783165
+8,3 cajas · demanda triple,Normal,384,3.6104556462184263
+8,3 cajas · demanda triple,Lento,522,3.3694692730047926
+8,3 cajas · demanda triple,Muy lento,486,3.5075351073094945
+8,4 cajas · demanda triple,Rápido,458,1.3221127883385762
+8,4 cajas · demanda triple,Normal,384,0.8776731405361997
+8,4 cajas · demanda triple,Lento,522,0.9985701137321827
+8,4 cajas · demanda triple,Muy lento,486,0.839109049085585
+9,3 cajas · fila más corta,Rápido,456,0.32183990550913627
+9,3 cajas · fila más corta,Normal,349,0.1788933457252875
+9,3 cajas · fila más corta,Lento,511,0.31496377020894567
+9,3 cajas · fila más corta,Muy lento,534,0.19953041631476523
+9,3 cajas · elección aleatoria,Rápido,456,1.712751102827687
+9,3 cajas · elección aleatoria,Normal,349,1.1114337308411106
+9,3 cajas · elección aleatoria,Lento,511,1.5279439919563196
+9,3 cajas · elección aleatoria,Muy lento,534,1.6906856402946857
+9,4 cajas · fila más corta,Rápido,456,0.04318240082283721
+9,4 cajas · fila más corta,Normal,349,0.02980253260511289
+9,4 cajas · fila más corta,Lento,511,0.06785088153741367
+9,4 cajas · fila más corta,Muy lento,534,0.03288133239056754
+9,3 cajas · demanda triple,Rápido,456,5.325585801501379
+9,3 cajas · demanda triple,Normal,349,5.9900711055300135
+9,3 cajas · demanda triple,Lento,511,4.826474403926967
+9,3 cajas · demanda triple,Muy lento,534,5.818067837393614
+9,4 cajas · demanda triple,Rápido,456,1.5192118543362443
+9,4 cajas · demanda triple,Normal,349,1.55944658200875
+9,4 cajas · demanda triple,Lento,511,1.2377101571937996
+9,4 cajas · demanda triple,Muy lento,534,1.3375749410454396
+10,3 cajas · fila más corta,Rápido,449,0.24714974570321083
+10,3 cajas · fila más corta,Normal,354,0.13516265402996194
+10,3 cajas · fila más corta,Lento,523,0.15438873794927274
+10,3 cajas · fila más corta,Muy lento,524,0.27143202032296415
+10,3 cajas · elección aleatoria,Rápido,449,1.3798175147501903
+10,3 cajas · elección aleatoria,Normal,354,1.6802229991903834
+10,3 cajas · elección aleatoria,Lento,523,1.6226656230574334
+10,3 cajas · elección aleatoria,Muy lento,524,1.319724792902567
+10,4 cajas · fila más corta,Rápido,449,0.014116618269883904
+10,4 cajas · fila más corta,Normal,354,0.018647864253166696
+10,4 cajas · fila más corta,Lento,523,0.0023961258157075495
+10,4 cajas · fila más corta,Muy lento,524,0.025527561282698664
+10,3 cajas · demanda triple,Rápido,449,5.161245339834253
+10,3 cajas · demanda triple,Normal,354,4.906323366215996
+10,3 cajas · demanda triple,Lento,523,5.049245420670951
+10,3 cajas · demanda triple,Muy lento,524,4.395984179104709
+10,4 cajas · demanda triple,Rápido,449,1.0922323289779468
+10,4 cajas · demanda triple,Normal,354,1.3192782443416735
+10,4 cajas · demanda triple,Lento,523,1.2333317220392803
+10,4 cajas · demanda triple,Muy lento,524,1.1507253307021301
