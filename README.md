@@ -72,6 +72,9 @@ Se encontró que elegir la fila más corta ofrece mejores resultados que selecci
 
 Los resultados dependen de los supuestos utilizados y constituyen una evaluación académica. Para aplicar las recomendaciones a un parqueadero real sería necesario contar con datos observados y realizar una validación adicional.
 
+## Video 
+https://youtu.be/aN8ztM0g3kI
+
 ## Responsable
 
 Daniela María Sánchez Sánchez  
